@@ -1,4 +1,4 @@
-Quick links for adding [bookmarklets](https://www.freecodecamp.org/news/what-are-bookmarklets/) that increase the playback speed of the first video player,e.g., fullscreen on YouTube.
+Quick links for adding [bookmarklets](https://www.freecodecamp.org/news/what-are-bookmarklets/) that increase the playback speed of the first video player, e.g., fullscreen on YouTube.
 Inspired by this [Quora answer](https://www.quora.com/Is-there-a-way-of-watching-YouTube-videos-at-higher-than-2x-speed).
 To use, drag the link/image to the Bookmark bar and click it when you are on the page where you want to increase the playback speed.
 
