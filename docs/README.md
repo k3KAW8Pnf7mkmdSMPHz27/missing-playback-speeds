@@ -10,3 +10,5 @@ Inspired by this [Quora answer](https://www.quora.com/Is-there-a-way-of-watching
 [![Bookmark for 4.0 times playback speed](https://img.shields.io/badge/Playback%20speed-4.0%20x-lightgrey)](javascript:document.getElementsByTagName("video")[0].playbackRate=4.0)
 
 Tested in Chrome Version 97.0.4692.99 on Ubuntu 20.4.
+
+[GitHub repository](https://github.com/k3KAW8Pnf7mkmdSMPHz27/missing-playback-speeds)
