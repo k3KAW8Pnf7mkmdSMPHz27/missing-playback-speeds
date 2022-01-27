@@ -12,6 +12,6 @@ To use, drag the link/image to the Bookmark bar and click it when you are on the
 
 [![Bookmark for 4.0 times playback speed](https://img.shields.io/badge/Playback%20speed-4.0%20x-lightgrey)](javascript:document.getElementsByTagName("video")[0].playbackRate=4.0)
 
-Tested in Chrome Version 97.0.4692.99 on Ubuntu 20.4.
+Tested in Chrome Version 97.0.4692.99 on Ubuntu 20.04.
 
 [GitHub repository](https://github.com/k3KAW8Pnf7mkmdSMPHz27/missing-playback-speeds)
