@@ -4,13 +4,13 @@ To use, drag the link/image to the Bookmark bar and click it when you are on the
 
 <a href='javascript:(()=>{document.getElementsByTagName("video")[0].playbackRate=prompt("Playback speed","1.0");})()'><img alt="Bookmark for x times playback speed" src="https://img.shields.io/badge/Playback%20speed-x%20times-lightgrey"></a>
 
-[![Bookmark for 2.5 times playback speed](https://img.shields.io/badge/Playback%20speed-2.5%20x-lightgrey)](javascript:document.getElementsByTagName("video")[0].playbackRate=2.5)
+[![Bookmark for 2.5 times playback speed](https://img.shields.io/badge/Playback%20speed-2.5%20x-lightgrey)](javascript:Array.from(document.querySelectorAll('video')).forEach((v,b,c)=>v.playbackRate=2.5))
 
-[![Bookmark for 3.0 times playback speed](https://img.shields.io/badge/Playback%20speed-3.0%20x-lightgrey)](javascript:document.getElementsByTagName("video")[0].playbackRate=3.0)
+[![Bookmark for 3.0 times playback speed](https://img.shields.io/badge/Playback%20speed-3.0%20x-lightgrey)](javascript:Array.from(document.querySelectorAll('video')).forEach((v,b,c)=>v.playbackRate=3.0))
 
-[![Bookmark for 3.5 times playback speed](https://img.shields.io/badge/Playback%20speed-3.5%20x-lightgrey)](javascript:document.getElementsByTagName("video")[0].playbackRate=3.5)
+[![Bookmark for 3.5 times playback speed](https://img.shields.io/badge/Playback%20speed-3.5%20x-lightgrey)](javascript:Array.from(document.querySelectorAll('video')).forEach((v,b,c)=>v.playbackRate=3.5))
 
-[![Bookmark for 4.0 times playback speed](https://img.shields.io/badge/Playback%20speed-4.0%20x-lightgrey)](javascript:document.getElementsByTagName("video")[0].playbackRate=4.0)
+[![Bookmark for 4.0 times playback speed](https://img.shields.io/badge/Playback%20speed-4.0%20x-lightgrey)](javascript:Array.from(document.querySelectorAll('video')).forEach((v,b,c)=>v.playbackRate=4.0))
 
 Tested in Chrome Version 97.0.4692.99 on Ubuntu 20.04.
 
